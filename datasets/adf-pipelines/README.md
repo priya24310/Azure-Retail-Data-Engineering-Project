@@ -1,0 +1,1 @@
+This folder contains Azure Data Factory pipeline JSON files.
